@@ -1,6 +1,6 @@
 cask "spotlightning" do
-  version "0.0.1"
-  sha256 "52497ff8269c171bd1534691c5fc7a2b3d126f4f245acf2ae49fbedf28720317"
+  version "0.0.2"
+  sha256 "62bbc0a1396cda69598353c854f63ee770af939f4167defd82b0fd7b5db4bb11"
 
   url "https://github.com/Binary-Gap/spotlightning/releases/download/v#{version}/SpotLightning.zip"
   name "SpotLightning"
