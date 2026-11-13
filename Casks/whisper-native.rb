@@ -1,6 +1,6 @@
 cask "whisper-native" do
-  version "0.4.0"
-  sha256 "fe06d9443fb99048462da11ec1199d389c09794e3c80c2d71d872767bbcd361b"
+  version "0.4.3"
+  sha256 "105d8a79d3fcad7573ef3fc6dbeab83a3d74f7c4335c8a755faf94ccc133120b"
 
   url "https://github.com/Binary-Gap/whisper-native/releases/download/v#{version}/WhisperNative.dmg"
   name "WhisperNative"
